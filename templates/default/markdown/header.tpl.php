@@ -1,0 +1,1 @@
+<script src="<?=\Idno\Core\site()->config()->getDisplayURL()?>IdnoPlugins/Markdown/external/epiceditor/js/epiceditor.js" language="JavaScript"></script>
